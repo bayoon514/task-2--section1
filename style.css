@@ -1,0 +1,316 @@
+ *{
+    margin: 0 ;
+    padding: 0;
+ }
+
+    header{ 
+    width: 100%; 
+    background-color:  #14a1e27e;
+    margin-bottom:20px;
+}
+header .hero {
+    margin: 0 auto;
+  width: 500PX; 
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-direction: column; 
+}
+.picture{width: 25PX; height: 25PX; margin-top:12px;
+}
+.A{width: 20%;
+    border-radius:50px ; margin-top: 20PX; 
+
+}
+    header .p,h2,h3,h1{
+        font-family:Arial, Helvetica, sans-serif;
+        margin-top: 10px; 
+    }
+    .c{
+        margin: 0 auto;
+        width: 900px;
+        flex-direction: column; 
+        border: 2px solid #808080;
+        padding: 20px;
+    }
+    .contact{
+        display: flex;
+        justify-content:center ;
+        align-items:center ;
+        
+    }
+    .contact a{
+        text-decoration:none; 
+        color: #fff;
+        
+    }
+    .box{
+        height: 3vh;
+        padding: 20px;
+        background: #017bff;
+        margin-left: 10px;
+        border-radius: 3px;
+
+    }
+
+    .contact img{
+        width: 15px;
+    }
+    
+    hr{
+        margin: 10px 0;
+    }
+    .Follow img { width: 25px;
+
+    }
+    .Follow a{
+        text-decoration: none; 
+    }
+   .card { 
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row; 
+    list-style: none;
+    color: #fff;
+   }
+.box2{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+   
+.box3{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+.box4{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px;
+    border-radius: 3px;
+}
+.bord{
+    margin: 0 auto; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    list-style: none;
+}
+.ball{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+}
+.ball2{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+}
+.ball3{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+}
+.flex{margin: 0 auto; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 30px;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 30px;
+}
+   .sr{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   
+   }
+   .ab{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   }
+.circle{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+}
+.jav{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+}
+.laravel{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+}
+   .word{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   }
+.php{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+}
+.sdt{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+}
+.html5{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+}
+.html6{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+}
+.photo{
+    margin: 0 auto; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 40px; 
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+   .imd{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   }
+   .Art{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   }
+   .Music{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   }
+   .sport{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   } 
+   .ghraph{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff; 
+   }
+   .games{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   }
+   .run{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   }
+   .program{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   }
+   .design{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   }
+   .web{
+    height: 3vh;
+    padding: 20px;
+    background: #017bff;
+    margin-left: 10px; 
+    border-radius: 3px;
+    color: #fff;
+   }
